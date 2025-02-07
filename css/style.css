@@ -1,0 +1,299 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Kanit:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Inter;
+}
+
+body {
+    width: 100%;
+    height: 100vh;
+    display: grid;
+    align-items: center;
+}
+
+#map {
+    height: 50vh;
+    border-radius: 0 0 25px 25px;
+}
+
+h2 {
+    width: fit-content;
+}
+
+#container-filter {
+    height: 50vh;
+    align-items: center;
+    display: grid;
+    border-radius: 25px 25px 0 0;
+    grid-template-rows: [a] 1fr [b] 1fr [c];
+    grid-template-columns: [a] 1fr [b] 1fr [c];
+}
+
+.container-filter-comptage > .filter-active {
+    background-color: #ff2e39 !important;
+    color: white !important;
+}
+
+.container-filter-comptage {
+    grid-row: a / b;
+    padding-left: 40px;
+    padding-right: 40px;
+    grid-column: a / c;
+    display: grid;
+    grid-gap: 10px;
+    align-items: center;
+    grid-template-columns: [] 250px [] 1fr [] 1fr [] 1fr [] 1fr [] 1fr [] 1fr [];
+}
+
+.container-filter-comptage div p {
+    font-weight: bold;
+    width: 80px;
+    border-radius: 100px;
+    justify-self: center;
+    align-self: center;
+}
+
+
+hr {
+    grid-row: a / c;
+    grid-column: a / c;
+    align-self: center;
+    width: 90%;
+    border: 1px solid #ff2e39;
+    justify-self: center;
+}
+
+.container-filter-comptage div {
+   text-align: center;
+   display: grid;
+   border-radius: 100px;
+   background-color: lightgray;
+   height: 80px;
+   width: 80px;
+}
+
+.container-filter-comptage h2 {
+    text-align: center;
+}
+
+.container-filter-bottom {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
+
+#container-filter-sens {
+    grid-row: b / c;
+    grid-column: a / c;
+    padding-left: 40px;
+}
+
+.container-filter-sens {
+    margin-top: 15px;
+}
+
+.container-filter-sens button {
+    padding: 10px;
+    border-radius: 8px;
+    border-radius: 100px;
+    font-weight: bold;
+    border: none;
+    background-color: lightgray;
+}
+
+#container-filter-commune div {
+    height: 36px;
+    border: 2px solid #ff2e39;
+    border-radius: 100px;
+    margin-top: 15px;
+    width: 100px;
+}
+
+.button-active {
+    background-color: #ff2e39 !important;
+    transition: 500ms;
+    color: white !important;
+}
+
+#container-filter-commune > div > div {
+    width: 26px;
+    height: 26px;
+    background-color: #ff2e39;
+    margin-top: 3px;
+    margin-left: 3px;
+}
+
+#container-filter-commune {
+    grid-row: b / c;
+    grid-column: b / c;
+}
+
+button:hover, .container-filter-comptage > div, #container-filter-commune > div {
+    cursor: pointer;
+}
+
+h2 {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+    font-size: 18px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+@media screen and (min-width: 910px) {
+    #container-filter {
+        width: 700px;
+        margin-left: auto;
+        margin-right: auto;
+        height: 300px;
+    }
+
+    #map {
+        width: 700px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
+
+.toggle-to-anim-enfant {
+    animation-name: toActifEnfant;
+    animation-duration: 1000ms;
+    animation-fill-mode: forwards;
+}
+
+.toggle-to-anim-parent {
+    animation-name: toActifParent;
+    animation-duration: 1000ms;
+    animation-fill-mode: forwards;
+}
+
+.toggle-to-anim-enfant-reverse {
+    animation-name: toInactiveEnfant;
+    animation-duration: 1000ms;
+    animation-fill-mode: forwards;
+}
+
+.toggle-to-anim-parent-reverse {
+    animation-name: toInactiveParent;
+    animation-duration: 1000ms;
+    animation-fill-mode: forwards;
+}
+
+@keyframes toActifEnfant {
+    0% {
+        transform: translateX(0);
+    }
+    100% {
+        border: 2px solid rgb(61, 61, 61);
+        background-color: rgb(61, 61, 61);
+        transform: translateX(64px);
+    }
+}
+
+@keyframes toActifParent {
+    0% {
+        border: 2px solid #ff2e39;
+        background-color: white !important;
+    }
+    100% {
+        background-color: white !important;
+        border: 2px solid rgb(61, 61, 61);
+    }
+}
+
+#double-sens {
+    margin-left: 10px;
+}
+
+/* Reverse keyframes */
+@keyframes toInactiveEnfant {
+    0% {
+        transform: translateX(64px);
+    }
+    100% {
+        background-color: #ff2e39;
+        transform: translateX(0);
+    }
+}
+
+@keyframes toInactiveParent {
+    0% {
+        border: 2px solid rgb(61, 61, 61);
+        background-color: white !important;
+    }
+    100% {
+        border: 2px solid #ff2e39;
+        background-color: white !important;
+    }
+}
+
+#full {
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    z-index: 999;
+    right: 0;
+    margin-top: 20px;
+    border-radius: 25px;
+    margin-right: 20px;
+    display: grid;
+}
+
+#full img {
+    width: 40px;
+    align-self: center;
+    justify-self: center;
+}
+
+#full:hover {
+    cursor: pointer;
+}
+
+.container {
+    width: auto;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow:  20px 20px 60px #d9d9d9,
+             -20px -20px 60px #ffffff;
+             border-radius: 25px;
+}
+
+.map-full-screen {
+    width: 100% !important;
+    position: fixed !important;
+    top: 0 !important;
+    left: 0 !important;
+    z-index: 999 !important;
+    height: 100vh !important;
+}
+
+@media screen and (max-width: 690px) {
+    * {
+        font-size: 12px;
+    }
+
+    .container-filter-comptage > div {
+        width: 40px;
+        height: 40px;
+    }
+
+    .container-filter-comptage > div > p {
+        width: 40px;
+    }
+
+    #container-filter {
+        height: 30vh;
+    }
+
+    button {
+        font-size: 10px;
+    }
+
+    .container-filter-comptage {
+        grid-template-columns: [] 100px [] 1fr [] 1fr [] 1fr [] 1fr [] 1fr [] 1fr [];
+    }
+}
