@@ -1,0 +1,1163 @@
+[
+    {
+        "geo_point_2d": {
+            "lon": 1.4490140202436952,
+            "lat": 43.58124631436543
+        },
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    [
+                        1.449014020243695,
+                        43.58124631436543
+                    ]
+                ],
+                "type": "MultiPoint"
+            },
+            "properties": {}
+        },
+        "id": "ETP10_URSS_202003",
+        "adresse": "49 avenue de l\u2019URSS",
+        "lib_off": "AV DE L URSS",
+        "mot_dir": "URSS (AV DE L URSS)",
+        "sens_circulation": "double sens",
+        "commune": "Toulouse",
+        "code_insee": 31555,
+        "debut_comptage": "2020-03-10"
+    },
+    {
+        "geo_point_2d": {
+            "lon": 1.4282756355965036,
+            "lat": 43.604729775172416
+        },
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    [
+                        1.428275635596504,
+                        43.604729775172416
+                    ]
+                ],
+                "type": "MultiPoint"
+            },
+            "properties": {}
+        },
+        "id": "ETP13_SEJOURNE_202002",
+        "adresse": "Pont des Catalans / Avenue S\u00e9journ\u00e9",
+        "lib_off": "AV PAUL SEJOURNE",
+        "mot_dir": "SEJOURNE (AV PAUL SEJOURN",
+        "sens_circulation": "double sens",
+        "commune": "Toulouse",
+        "code_insee": 31555,
+        "debut_comptage": "2020-02-04"
+    },
+    {
+        "geo_point_2d": {
+            "lon": 1.4207762181876638,
+            "lat": 43.61005924205067
+        },
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    [
+                        1.420776218187664,
+                        43.61005924205067
+                    ]
+                ],
+                "type": "MultiPoint"
+            },
+            "properties": {}
+        },
+        "id": "ETP18_BARCELONE_202002",
+        "adresse": "150 all\u00e9e de Barcelone",
+        "lib_off": "ALL DE BARCELONE",
+        "mot_dir": "BARCELONE (ALL DE BARCELO",
+        "sens_circulation": "sens unique",
+        "commune": "Toulouse",
+        "code_insee": 31555,
+        "debut_comptage": "2020-02-04"
+    },
+    {
+        "geo_point_2d": {
+            "lon": 1.443958152312029,
+            "lat": 43.61489235518084
+        },
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    [
+                        1.443958152312029,
+                        43.61489235518084
+                    ]
+                ],
+                "type": "MultiPoint"
+            },
+            "properties": {}
+        },
+        "id": "ETP21_MATABIAU_202204",
+        "adresse": "34 boulevard Matabiau",
+        "lib_off": "BD MATABIAU",
+        "mot_dir": "MATABIAU (BD MATABIAU)",
+        "sens_circulation": "sens unique",
+        "commune": "Toulouse",
+        "code_insee": 31555,
+        "debut_comptage": "2022-04-13"
+    },
+    {
+        "geo_point_2d": {
+            "lon": 1.45470072189771,
+            "lat": 43.60022553073465
+        },
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    [
+                        1.45470072189771,
+                        43.60022553073465
+                    ]
+                ],
+                "type": "MultiPoint"
+            },
+            "properties": {}
+        },
+        "id": "ETP22_GUILHEMERY_202002",
+        "adresse": "11 place Dupuy",
+        "lib_off": "RUE DU PONT GUILHEMERY",
+        "mot_dir": "GUILHEMERY (RUE DU PONT G",
+        "sens_circulation": "sens unique",
+        "commune": "Toulouse",
+        "code_insee": 31555,
+        "debut_comptage": "2020-02-06"
+    },
+    {
+        "geo_point_2d": {
+            "lon": 1.3949686772782008,
+            "lat": 43.61616356295663
+        },
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    [
+                        1.394968677278201,
+                        43.61616356295663
+                    ]
+                ],
+                "type": "MultiPoint"
+            },
+            "properties": {}
+        },
+        "id": "ETP28_FLAMBERE_202002",
+        "adresse": "28 chemin de la Flamb\u00e8re",
+        "lib_off": "CHE DE LA FLAMBERE",
+        "mot_dir": "FLAMBERE (CHE DE LA FLAMB",
+        "sens_circulation": "double sens",
+        "commune": "Toulouse",
+        "code_insee": 31555,
+        "debut_comptage": "2020-02-11"
+    },
+    {
+        "geo_point_2d": {
+            "lon": 1.4708587344538684,
+            "lat": 43.62848027274349
+        },
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    [
+                        1.470858734453868,
+                        43.62848027274349
+                    ]
+                ],
+                "type": "MultiPoint"
+            },
+            "properties": {}
+        },
+        "id": "ETP60_MICHOUN_202002",
+        "adresse": "174 Chemin Michoun",
+        "lib_off": "CHE MICHOUN",
+        "mot_dir": "MICHOUN (CHE MICHOUN)",
+        "sens_circulation": "double sens",
+        "commune": "Toulouse",
+        "code_insee": 31555,
+        "debut_comptage": "2020-02-17"
+    },
+    {
+        "geo_point_2d": {
+            "lon": 1.4616324629696547,
+            "lat": 43.58527309526229
+        },
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    [
+                        1.461632462969655,
+                        43.58527309526229
+                    ]
+                ],
+                "type": "MultiPoint"
+            },
+            "properties": {}
+        },
+        "id": "ETP66_MEDITERANNEE_202002",
+        "adresse": "19 boulevard de la M\u00e9diterran\u00e9e",
+        "lib_off": "BD DE LA MEDITERRANEE",
+        "mot_dir": "MEDITERRANEE (BD DE LA ME",
+        "sens_circulation": "double sens",
+        "commune": "Toulouse",
+        "code_insee": 31555,
+        "debut_comptage": "2020-02-14"
+    },
+    {
+        "geo_point_2d": {
+            "lon": 1.4623592229470377,
+            "lat": 43.62280712738226
+        },
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    [
+                        1.462359222947038,
+                        43.62280712738226
+                    ]
+                ],
+                "type": "MultiPoint"
+            },
+            "properties": {}
+        },
+        "id": "ETP57_LAVAUR _202110",
+        "adresse": "82 avenue de Lavaur",
+        "lib_off": "AV DE LAVAUR",
+        "mot_dir": "LAVAUR (AV DE LAVAUR)",
+        "sens_circulation": "double sens",
+        "commune": "Toulouse",
+        "code_insee": 31555,
+        "debut_comptage": "2021-10-04"
+    },
+    {
+        "geo_point_2d": {
+            "lon": 1.3696757200207206,
+            "lat": 43.60397731795469
+        },
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    [
+                        1.369675720020721,
+                        43.60397731795469
+                    ]
+                ],
+                "type": "MultiPoint"
+            },
+            "properties": {}
+        },
+        "id": "ETP28_DAGUIN_202002",
+        "adresse": "47 rue Daguin",
+        "lib_off": "RUE PIERRE DAGUIN",
+        "mot_dir": "DAGUIN (RUE PIERRE)",
+        "sens_circulation": "double sens",
+        "commune": "Toulouse",
+        "code_insee": 31555,
+        "debut_comptage": "2023-01-03"
+    },
+    {
+        "geo_point_2d": {
+            "lon": 1.458636734090303,
+            "lat": 43.617264462754505
+        },
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    [
+                        1.458636734090303,
+                        43.617264462754505
+                    ]
+                ],
+                "type": "MultiPoint"
+            },
+            "properties": {}
+        },
+        "id": "ETP72_PERIOLE_6043",
+        "adresse": "84 rue de P\u00e9riole",
+        "lib_off": "RUE DE PERIOLE",
+        "mot_dir": "PERIOLE (RUE DE PERIOLE)",
+        "sens_circulation": "double sens",
+        "commune": "Toulouse",
+        "code_insee": 31555,
+        "debut_comptage": "2022-09-29"
+    },
+    {
+        "geo_point_2d": {
+            "lon": 1.4278279701812804,
+            "lat": 43.60209283082217
+        },
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    [
+                        1.42782797018128,
+                        43.60209283082217
+                    ]
+                ],
+                "type": "MultiPoint"
+            },
+            "properties": {}
+        },
+        "id": "ETP71_FITTE_202002",
+        "adresse": "107 all\u00e9es Charles de Fitte",
+        "lib_off": "ALLEES CHARLES DE FITTE",
+        "mot_dir": "FITTE (ALL CHARLES DE FIT",
+        "sens_circulation": "double sens",
+        "commune": "Toulouse",
+        "code_insee": 31555,
+        "debut_comptage": "2020-02-05"
+    },
+    {
+        "geo_point_2d": {
+            "lon": 1.3640977189348524,
+            "lat": 43.607115376295525
+        },
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    [
+                        1.364097718934852,
+                        43.607115376295525
+                    ]
+                ],
+                "type": "MultiPoint"
+            },
+            "properties": {}
+        },
+        "id": "ETP27_CLOS_202002",
+        "adresse": "Face au 148 rue Dominique Clos",
+        "lib_off": "RUE DOMINIQUE CLOS",
+        "mot_dir": "CLOS (RUE DOMINIQUE CLOS)",
+        "sens_circulation": "double sens",
+        "commune": "Toulouse",
+        "code_insee": 31555,
+        "debut_comptage": "2020-02-11"
+    },
+    {
+        "geo_point_2d": {
+            "lon": 1.412241882697207,
+            "lat": 43.6133956321022
+        },
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    [
+                        1.412241882697207,
+                        43.6133956321022
+                    ]
+                ],
+                "type": "MultiPoint"
+            },
+            "properties": {}
+        },
+        "id": "ETP36_BLAGNAC_202002",
+        "adresse": "54 route de Blagnac",
+        "lib_off": "RTE DE BLAGNAC",
+        "mot_dir": "BLAGNAC (RTE DE BLAGNAC)",
+        "sens_circulation": "double sens",
+        "commune": "Toulouse",
+        "code_insee": 31555,
+        "debut_comptage": "2020-02-10"
+    },
+    {
+        "geo_point_2d": {
+            "lon": 1.4606425001593826,
+            "lat": 43.62862983103525
+        },
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    [
+                        1.460642500159383,
+                        43.62862983103525
+                    ]
+                ],
+                "type": "MultiPoint"
+            },
+            "properties": {}
+        },
+        "id": "ETP39_ALBI_202003",
+        "adresse": "21 route d\u2019Albi",
+        "lib_off": "RTE D ALBI",
+        "mot_dir": "ALBI (RTE D ALBI)",
+        "sens_circulation": "double sens",
+        "commune": "Toulouse",
+        "code_insee": 31555,
+        "debut_comptage": "2020-03-13"
+    },
+    {
+        "geo_point_2d": {
+            "lon": 1.3789484043941398,
+            "lat": 43.590264462669815
+        },
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    [
+                        1.37894840439414,
+                        43.590264462669815
+                    ]
+                ],
+                "type": "MultiPoint"
+            },
+            "properties": {}
+        },
+        "id": "ETP41_LARDENNE_202002",
+        "adresse": "260 avenue de Lardenne",
+        "lib_off": "AV DE LARDENNE",
+        "mot_dir": "LARDENNE (AV DE LARDENNE)",
+        "sens_circulation": "double sens",
+        "commune": "Toulouse",
+        "code_insee": 31555,
+        "debut_comptage": "2020-02-09"
+    },
+    {
+        "geo_point_2d": {
+            "lon": 1.475647683324243,
+            "lat": 43.61423989033371
+        },
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    [
+                        1.475647683324243,
+                        43.61423989033371
+                    ]
+                ],
+                "type": "MultiPoint"
+            },
+            "properties": {}
+        },
+        "id": "ETP59_PLANA_202002",
+        "adresse": "87 rue Louis Plana",
+        "lib_off": "RUE LOUIS PLANA",
+        "mot_dir": "PLANA (RUE LOUIS PLANA)",
+        "sens_circulation": "double sens",
+        "commune": "Toulouse",
+        "code_insee": 31555,
+        "debut_comptage": "2020-02-17"
+    },
+    {
+        "geo_point_2d": {
+            "lon": 1.4393621915130255,
+            "lat": 43.58686606968922
+        },
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    [
+                        1.439362191513025,
+                        43.58686606968922
+                    ]
+                ],
+                "type": "MultiPoint"
+            },
+            "properties": {}
+        },
+        "id": "ETP23_JUIN_202002",
+        "adresse": "Boulevard Mar\u00e9chal Juin \u2013 arr\u00eat Platanes",
+        "lib_off": "BD DU MARECHAL JUIN",
+        "mot_dir": "JUIN (BD DU MARECHAL JUIN",
+        "sens_circulation": "double sens",
+        "commune": "Toulouse",
+        "code_insee": 31555,
+        "debut_comptage": "2020-02-04"
+    },
+    {
+        "geo_point_2d": {
+            "lon": 1.4147185012180052,
+            "lat": 43.58288357362434
+        },
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    [
+                        1.414718501218005,
+                        43.58288357362434
+                    ]
+                ],
+                "type": "MultiPoint"
+            },
+            "properties": {}
+        },
+        "id": "ETP6_DESBALS_202002",
+        "adresse": "170 rue Henri Desbals",
+        "lib_off": "RUE HENRI DESBALS",
+        "mot_dir": "DESBALS (RUE HENRI DESBAL",
+        "sens_circulation": "double sens",
+        "commune": "Toulouse",
+        "code_insee": 31555,
+        "debut_comptage": "2020-02-05"
+    },
+    {
+        "geo_point_2d": {
+            "lon": 1.446534330250473,
+            "lat": 43.6006478957301
+        },
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    [
+                        1.446534330250473,
+                        43.6006478957301
+                    ]
+                ],
+                "type": "MultiPoint"
+            },
+            "properties": {}
+        },
+        "id": "ETP9_METZ_202002",
+        "adresse": "34 rue de Metz",
+        "lib_off": "RUE DE METZ",
+        "mot_dir": "METZ (RUE DE METZ)",
+        "sens_circulation": "sens unique",
+        "commune": "Toulouse",
+        "code_insee": 31555,
+        "debut_comptage": "2020-02-06"
+    },
+    {
+        "geo_point_2d": {
+            "lon": 1.4320953693301628,
+            "lat": 43.63182656423558
+        },
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    [
+                        1.432095369330163,
+                        43.63182656423558
+                    ]
+                ],
+                "type": "MultiPoint"
+            },
+            "properties": {}
+        },
+        "id": "ETP32_UNIS_202002",
+        "adresse": "88 avenue des Etats Unis",
+        "lib_off": "AV DES ETATS UNIS",
+        "mot_dir": "UNIS (AV DES ETATS UNIS)",
+        "sens_circulation": "double sens",
+        "commune": "Toulouse",
+        "code_insee": 31555,
+        "debut_comptage": "2020-02-09"
+    },
+    {
+        "geo_point_2d": {
+            "lon": 1.4348768100109093,
+            "lat": 43.65929723344289
+        },
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    [
+                        1.434876810010909,
+                        43.65929723344289
+                    ]
+                ],
+                "type": "MultiPoint"
+            },
+            "properties": {}
+        },
+        "id": "ETP38_BENITE_202002",
+        "adresse": "69 chemin de Croix B\u00e9nite",
+        "lib_off": "CHE DE CROIX BENITE",
+        "mot_dir": "BENITE (CHE DE CROIX BENI",
+        "sens_circulation": "double sens",
+        "commune": "Toulouse",
+        "code_insee": 31555,
+        "debut_comptage": "2020-02-10"
+    },
+    {
+        "geo_point_2d": {
+            "lon": 1.47423864125417,
+            "lat": 43.636744452783994
+        },
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    [
+                        1.47423864125417,
+                        43.636744452783994
+                    ]
+                ],
+                "type": "MultiPoint"
+            },
+            "properties": {}
+        },
+        "id": "ETP40_VASSEUR_202002",
+        "adresse": "48 rue Vasseur",
+        "lib_off": "RUE ANDRE VASSEUR",
+        "mot_dir": "VASSEUR (RUE ANDRE VASSEU",
+        "sens_circulation": "double sens",
+        "commune": "Toulouse",
+        "code_insee": 31555,
+        "debut_comptage": "2020-02-10"
+    },
+    {
+        "geo_point_2d": {
+            "lon": 1.458545236719971,
+            "lat": 43.612502618337814
+        },
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    [
+                        1.458545236719971,
+                        43.612502618337814
+                    ]
+                ],
+                "type": "MultiPoint"
+            },
+            "properties": {}
+        },
+        "id": "ETP58_POMPIDOU_202003",
+        "adresse": "Avenue Pompidou / rue du Libre Echange",
+        "lib_off": "AV GEORGES POMPIDOU",
+        "mot_dir": "POMPIDOU (AV GEORGES POMP",
+        "sens_circulation": "double sens",
+        "commune": "Toulouse",
+        "code_insee": 31555,
+        "debut_comptage": "2020-03-10"
+    },
+    {
+        "geo_point_2d": {
+            "lon": 1.4221342899564031,
+            "lat": 43.577082730953855
+        },
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    [
+                        1.422134289956403,
+                        43.577082730953855
+                    ]
+                ],
+                "type": "MultiPoint"
+            },
+            "properties": {}
+        },
+        "id": "ETP11_SEYSSES_202003",
+        "adresse": "326 route de Seysses",
+        "lib_off": "RTE DE SEYSSES",
+        "mot_dir": "SEYSSES (RTE DE SEYSSES)",
+        "sens_circulation": "double sens",
+        "commune": "Toulouse",
+        "code_insee": 31555,
+        "debut_comptage": "2020-03-10"
+    },
+    {
+        "geo_point_2d": {
+            "lon": 1.4471749234417266,
+            "lat": 43.596226369452474
+        },
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    [
+                        1.447174923441727,
+                        43.596226369452474
+                    ]
+                ],
+                "type": "MultiPoint"
+            },
+            "properties": {}
+        },
+        "id": "ETP16_OZENNE_202002",
+        "adresse": "10 rue Ozenne",
+        "lib_off": "RUE THEODORE OZENNE",
+        "mot_dir": "OZENNE (RUE THEODORE OZEN",
+        "sens_circulation": "double sens",
+        "commune": "Toulouse",
+        "code_insee": 31555,
+        "debut_comptage": "2020-02-04"
+    },
+    {
+        "geo_point_2d": {
+            "lon": 1.4401317385403807,
+            "lat": 43.59778369837535
+        },
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    [
+                        1.440131738540381,
+                        43.59778369837535
+                    ]
+                ],
+                "type": "MultiPoint"
+            },
+            "properties": {}
+        },
+        "id": "ETP20_TOUNIS_202002",
+        "adresse": "Face au 110 quai de Tounis",
+        "lib_off": "QU DE TOUNIS",
+        "mot_dir": "TOUNIS (QU DE TOUNIS)",
+        "sens_circulation": "sens unique",
+        "commune": "Toulouse",
+        "code_insee": 31555,
+        "debut_comptage": "2020-02-05"
+    },
+    {
+        "geo_point_2d": {
+            "lon": 1.3764252229724763,
+            "lat": 43.60851003484329
+        },
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    [
+                        1.376425222972476,
+                        43.60851003484329
+                    ]
+                ],
+                "type": "MultiPoint"
+            },
+            "properties": {}
+        },
+        "id": "ETP26_BAYONNE_202002",
+        "adresse": "213 route de Bayonne",
+        "lib_off": "RTE DE BAYONNE",
+        "mot_dir": "BAYONNE (RTE DE BAYONNE)",
+        "sens_circulation": "double sens",
+        "commune": "Toulouse",
+        "code_insee": 31555,
+        "debut_comptage": "2020-02-09"
+    },
+    {
+        "geo_point_2d": {
+            "lon": 1.3763311055827394,
+            "lat": 43.60514586444344
+        },
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    [
+                        1.376331105582739,
+                        43.60514586444344
+                    ]
+                ],
+                "type": "MultiPoint"
+            },
+            "properties": {}
+        },
+        "id": "ETP30_TOURNEFEUILLE_202002",
+        "adresse": "Face au 193 chemin de Tournefeuille",
+        "lib_off": "CHE DE TOURNEFEUILLE",
+        "mot_dir": "TOURNEFEUILLE (CHE DE TOU",
+        "sens_circulation": "double sens",
+        "commune": "Toulouse",
+        "code_insee": 31555,
+        "debut_comptage": "2020-02-09"
+    },
+    {
+        "geo_point_2d": {
+            "lon": 1.431580740651981,
+            "lat": 43.625761096575054
+        },
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    [
+                        1.431580740651981,
+                        43.625761096575054
+                    ]
+                ],
+                "type": "MultiPoint"
+            },
+            "properties": {}
+        },
+        "id": "ETP33_TRENTIN_202002",
+        "adresse": "69 boulevard Silvio Trentin",
+        "lib_off": "BD SILVIO TRENTIN",
+        "mot_dir": "TRENTIN (BD SILVIO TRENTI",
+        "sens_circulation": "double sens",
+        "commune": "Toulouse",
+        "code_insee": 31555,
+        "debut_comptage": "2020-02-10"
+    },
+    {
+        "geo_point_2d": {
+            "lon": 1.41472315231458,
+            "lat": 43.61582385461266
+        },
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    [
+                        1.41472315231458,
+                        43.61582385461266
+                    ]
+                ],
+                "type": "MultiPoint"
+            },
+            "properties": {}
+        },
+        "id": "ETP35_TROENES_202003",
+        "adresse": "58 rue des Tro\u00e8nes",
+        "lib_off": "RUE DES TROENES",
+        "mot_dir": "TROENES (RUE DES TROENES)",
+        "sens_circulation": "sens unique",
+        "commune": "Toulouse",
+        "code_insee": 31555,
+        "debut_comptage": "2020-03-11"
+    },
+    {
+        "geo_point_2d": {
+            "lon": 1.3921979774107958,
+            "lat": 43.58407474523652
+        },
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    [
+                        1.392197977410796,
+                        43.58407474523652
+                    ]
+                ],
+                "type": "MultiPoint"
+            },
+            "properties": {}
+        },
+        "id": "ETP43_BAYLET_202002",
+        "adresse": "Face au 60 rue Jean Baylet",
+        "lib_off": "AV JEAN BAYLET",
+        "mot_dir": "BAYLET (AV JEAN BAYLET)",
+        "sens_circulation": "double sens",
+        "commune": "Toulouse",
+        "code_insee": 31555,
+        "debut_comptage": "2020-02-11"
+    },
+    {
+        "geo_point_2d": {
+            "lon": 1.4050958521208894,
+            "lat": 43.56338084438525
+        },
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    [
+                        1.405095852120889,
+                        43.56338084438525
+                    ]
+                ],
+                "type": "MultiPoint"
+            },
+            "properties": {}
+        },
+        "id": "ETP46_BELLEFONTAINE_20202",
+        "adresse": "28 all\u00e9e de Bellefontaine",
+        "lib_off": "ALL DE BELLEFONTAINE",
+        "mot_dir": "BELLEFONTAINE (ALL DE BEL",
+        "sens_circulation": "double sens",
+        "commune": "Toulouse",
+        "code_insee": 31555,
+        "debut_comptage": "2020-02-11"
+    },
+    {
+        "geo_point_2d": {
+            "lon": 1.467793168547256,
+            "lat": 43.623162542475754
+        },
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    [
+                        1.467793168547256,
+                        43.623162542475754
+                    ]
+                ],
+                "type": "MultiPoint"
+            },
+            "properties": {}
+        },
+        "id": "ETP56_DOUMERGUE_202002",
+        "adresse": "24 avenue Doumergue",
+        "lib_off": "AV DU PRESIDENT DOUMERGUE",
+        "mot_dir": "DOUMERGUE (AV DU PRESIDEN",
+        "sens_circulation": "double sens",
+        "commune": "Toulouse",
+        "code_insee": 31555,
+        "debut_comptage": "2020-02-11"
+    },
+    {
+        "geo_point_2d": {
+            "lon": 1.4561324112560556,
+            "lat": 43.57976166784469
+        },
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    [
+                        1.456132411256056,
+                        43.57976166784469
+                    ]
+                ],
+                "type": "MultiPoint"
+            },
+            "properties": {}
+        },
+        "id": "ETP68_LAURAGAIS_202002",
+        "adresse": "51 avenue du Lauragais",
+        "lib_off": "AV DU LAURAGAIS",
+        "mot_dir": "LAURAGAIS (AV DU LAURAGAI",
+        "sens_circulation": "double sens",
+        "commune": "Toulouse",
+        "code_insee": 31555,
+        "debut_comptage": "2020-02-13"
+    },
+    {
+        "geo_point_2d": {
+            "lon": 1.439625721941747,
+            "lat": 43.56391092417391
+        },
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    [
+                        1.439625721941747,
+                        43.56391092417391
+                    ]
+                ],
+                "type": "MultiPoint"
+            },
+            "properties": {}
+        },
+        "id": "ETP70_ETROITS_202003",
+        "adresse": "67 chemin des Etroits",
+        "lib_off": "CHE DES ETROITS",
+        "mot_dir": "ETROITS (CHE DES ETROITS)",
+        "sens_circulation": "double sens",
+        "commune": "Toulouse",
+        "code_insee": 31555,
+        "debut_comptage": "2020-03-12"
+    },
+    {
+        "geo_point_2d": {
+            "lon": 1.4123116482073532,
+            "lat": 43.58866789856065
+        },
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    [
+                        1.412311648207353,
+                        43.58866789856065
+                    ]
+                ],
+                "type": "MultiPoint"
+            },
+            "properties": {}
+        },
+        "id": "ETP4_SIMON_202001",
+        "adresse": "346 route de Saint Simon",
+        "lib_off": "RTE DE SAINT SIMON",
+        "mot_dir": "SIMON (RTE DE SAINT SIMON",
+        "sens_circulation": "double sens",
+        "commune": "Toulouse",
+        "code_insee": 31555,
+        "debut_comptage": "2020-01-20"
+    },
+    {
+        "geo_point_2d": {
+            "lon": 1.4244654026831929,
+            "lat": 43.57325457530607
+        },
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    [
+                        1.424465402683193,
+                        43.57325457530607
+                    ]
+                ],
+                "type": "MultiPoint"
+            },
+            "properties": {}
+        },
+        "id": "ETP17_Espagne_202011",
+        "adresse": "79 route d\u2019Espagne",
+        "lib_off": "RTE D ESPAGNE",
+        "mot_dir": "ESPAGNE (RTE D ESPAGNE)",
+        "sens_circulation": "double sens",
+        "commune": "Toulouse",
+        "code_insee": 31555,
+        "debut_comptage": "2020-11-05"
+    },
+    {
+        "geo_point_2d": {
+            "lon": 1.413627665609052,
+            "lat": 43.60053266125059
+        },
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    [
+                        1.413627665609052,
+                        43.60053266125059
+                    ]
+                ],
+                "type": "MultiPoint"
+            },
+            "properties": {}
+        },
+        "id": "ETP25_BRETAGNE_202003",
+        "adresse": "162 avenue de Grande Bretagne",
+        "lib_off": "AV DE GRANDE BRETAGNE",
+        "mot_dir": "BRETAGNE (AV DE GRANDE BR",
+        "sens_circulation": "double sens",
+        "commune": "Toulouse",
+        "code_insee": 31555,
+        "debut_comptage": "2020-03-01"
+    },
+    {
+        "geo_point_2d": {
+            "lon": 1.378659701898605,
+            "lat": 43.55137787654048
+        },
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    [
+                        1.378659701898605,
+                        43.55137787654048
+                    ]
+                ],
+                "type": "MultiPoint"
+            },
+            "properties": {}
+        },
+        "id": "ETP51_TUCAUT_202001",
+        "adresse": "127 Chemin de Tucaud",
+        "lib_off": "CHE DE TUCAUT",
+        "mot_dir": "TUCAUT (CHE DE TUCAUT)",
+        "sens_circulation": "double sens",
+        "commune": "Toulouse",
+        "code_insee": 31555,
+        "debut_comptage": "2020-01-23"
+    },
+    {
+        "geo_point_2d": {
+            "lon": 1.4575956692583616,
+            "lat": 43.61673363227484
+        },
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    [
+                        1.457595669258362,
+                        43.61673363227484
+                    ]
+                ],
+                "type": "MultiPoint"
+            },
+            "properties": {}
+        },
+        "id": "ETP57_PERIOLE_202002",
+        "adresse": "55 bis rue de P\u00e9riole",
+        "lib_off": "RUE DE PERIOLE",
+        "mot_dir": "PERIOLE (RUE DE PERIOLE)",
+        "sens_circulation": "double sens",
+        "commune": "Toulouse",
+        "code_insee": 31555,
+        "debut_comptage": "2020-02-13"
+    },
+    {
+        "geo_point_2d": {
+            "lon": 1.4565522259321153,
+            "lat": 43.599655385637206
+        },
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    [
+                        1.456552225932115,
+                        43.599655385637206
+                    ]
+                ],
+                "type": "MultiPoint"
+            },
+            "properties": {}
+        },
+        "id": "ETP62_ETIENNE_202003",
+        "adresse": "26 Port St Etienne",
+        "lib_off": "PORT SAINT ETIENNE",
+        "mot_dir": "ETIENNE (PORT SAINT ETIEN",
+        "sens_circulation": "sens unique",
+        "commune": "Toulouse",
+        "code_insee": 31555,
+        "debut_comptage": "2020-03-12"
+    },
+    {
+        "geo_point_2d": {
+            "lon": 1.5138076819380024,
+            "lat": 43.569145626408485
+        },
+        "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+                "coordinates": [
+                    [
+                        1.513807681938002,
+                        43.569145626408485
+                    ]
+                ],
+                "type": "MultiPoint"
+            },
+            "properties": {}
+        },
+        "id": "ETP67_CAYRAS_202003",
+        "adresse": "46 chemin de Cayras",
+        "lib_off": "CHE DE CAYRAS",
+        "mot_dir": "CAYRAS (CHE DE CAYRAS)",
+        "sens_circulation": "double sens",
+        "commune": "Toulouse",
+        "code_insee": 31555,
+        "debut_comptage": "2020-03-12"
+    }
+]
