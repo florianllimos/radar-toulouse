@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cartographie</title>
+    <link rel="stylesheet" href="css/leaflet.css">
+    <link rel="stylesheet" href="css/MarkerCluster.Default.css">
+    <link rel="stylesheet" href="css/style.css">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="js/leaflet.js"></script>
+    <script src="js/leaflet.markercluster.js"></script>
+    <script src="js/main.js"></script>
+</head>
+<body>
+    <div class="container">
+        <div id="container-filter">
+            <div class="container-filter-comptage">
+                <h2>Début comptage</h2>
+                <div id="2020"><p>2020</p></div>
+                <div id="2021"><p>2021</p></div>
+                <div id="2022"><p>2022</p></div>
+                <div id="2023"><p>2023</p></div>
+            </div>
+            <hr>
+            <div id="container-filter-sens">
+                <h2>Sens de circulation</h2>
+                <div class="container-filter-sens">
+                    <button id="sens-unique" class="wait-button">Sens unique</button>
+                    <button id="double-sens" class="wait-button">Double sens</button>
+                </div>
+            </div>
+        </div>
+        <div id="map">
+            <div id="full">
+                <img src="media/maximize.png">
+            </div>
+        </div>
+    </div>
+</body>
+</html>
